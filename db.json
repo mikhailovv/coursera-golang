@@ -30,45 +30,5 @@
             "time": "11:00",
             "organizer": "Carey Wales"
         },
-        {
-            "id": 323,
-            "category": "Object-Relational Structural Patterns",
-            "title": "Association Table Mapping",
-            "description": "Saves an association as a table with foreign keys to the tables that are linked by the association.",
-            "location": "Object-Relational Structural Patterns",
-            "date": "July 22, 2022",
-            "time": "11:00",
-            "organizer": "Carey Wales"
-        },
-        {
-            "id": 234,
-            "category": "Object-Relational Structural Patterns",
-            "title": "Dependent Mapping",
-            "description": "Has one class perform the database mapping for a child class.",
-            "location": "Object-Relational Structural Patterns",
-            "date": "July 22, 2022",
-            "time": "11:00",
-            "organizer": "Carey Wales"
-        },
-        {
-            "id": 235,
-            "category": "Object-Relational Structural Patterns",
-            "title": "Identity Field",
-            "description": "Saves a database ID field in an object to maintain identity between an in-memory object and a database row.",
-            "location": "Object-Relational Structural Patterns",
-            "date": "July 22, 2022",
-            "time": "11:00",
-            "organizer": "Carey Wales"
-        },
-        {
-            "id": 236,
-            "category": "Domain Logic Patterns",
-            "title": "Transaction Script",
-            "description": "Organizes business logic by procedures where each procedure handles a single request from the presentation.",
-            "location": "Domain Logic Patterns",
-            "date": "July 22, 2022",
-            "time": "11:00",
-            "organizer": "Carey Wales"
-        }
     ]
 }
